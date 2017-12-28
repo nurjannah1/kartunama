@@ -1,0 +1,4 @@
+#Wed Dec 27 13:55:47 GMT 2017
+base.0=D\:\\a_kuliah\\semester 7\\pemrograman mobile\\android\\nak2\\KartuNama3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
